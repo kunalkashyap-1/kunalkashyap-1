@@ -10,7 +10,7 @@
 - 🌐 Learning Web-Development 
 - 🤝 Looking to collaborate with developers 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalkashyap-1&theme=github_dark&show_icons=true)
+
 
 ## 📱 Contact Me
 
