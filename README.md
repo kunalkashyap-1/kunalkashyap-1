@@ -12,7 +12,7 @@
 
 ## 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalkashyap-1&theme=github_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kunalkashyap-1&theme=github_dark&show_icons=true&count_private=true)
 
 ## 📱 Contact Me
 
