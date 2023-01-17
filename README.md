@@ -10,8 +10,8 @@
 - 🌐 Full Stack Enthusiast
 - 🤝 Looking to collaborate with developers 
 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkashyap-1&&exclude_repo=luffy_project,layout=compact)]
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkashyap-1&exclude_repo=luffy_project&layout=compact)]
 
 ## 📱 Contact Me
 
