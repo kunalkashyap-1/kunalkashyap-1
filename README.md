@@ -7,7 +7,7 @@
 </p>
 
 - 👨‍💻 Currently pursuing B.Tech in computer science.
-- MERN Stack developer.
+- 📚 MERN Stack developer.
 - 🌐 Full Stack Enthusiast.
 - 🤝 Looking to collaborate with developers. 
 
