@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalkashyap-1&show_icons=true&theme=tokyonight" alt="k-kunalKashyap" /></p>
 
 ### 🧰 Languages and Tools
-<div style="background-color: rgb(240,240,240);display: flex;" >
+<div style="color: rgb(240,240,240);display: flex;" >
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
