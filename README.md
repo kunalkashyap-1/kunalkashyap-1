@@ -6,6 +6,14 @@
   <img src="https://raw.githubusercontent.com/kunalkashyap-1/kunalkashyap-1/master/assets/giphy.webp">
 </p>
 
+<p align="center"> 
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/your_contributions/ajdqOVJh" alt="kunalkashyap-1" width="200" /> 
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/contribution_streak/VmpIcjV1" alt="kunalkashyap-1" width="200" />  
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/zen_or_ninja/bE1pMUs2" alt="kunalkashyap-1" width="200" /> 
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/it_takes_a_village/QVNhZkVX" alt="kunalkashyap-1" width="200" /> 
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/top_reviewers/OTU0dU9p" alt="kunalkashyap-1" width="200" /> 
+</p>
+
 - 👨‍💻 Currently pursuing B.Tech in computer science.
 - 📚 MERN Stack developer.
 - 🌐 Full Stack Enthusiast.
