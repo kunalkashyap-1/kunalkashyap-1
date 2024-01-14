@@ -7,11 +7,11 @@
 </p>
 
 <p align="center"> 
-  <img src="https://unwrapped.dev/shared/kunalkashyap-1/your_contributions/ajdqOVJh" alt="kunalkashyap-1" width="200" /> 
-  <img src="https://unwrapped.dev/shared/kunalkashyap-1/contribution_streak/VmpIcjV1" alt="kunalkashyap-1" width="200" />  
-  <img src="https://unwrapped.dev/shared/kunalkashyap-1/zen_or_ninja/bE1pMUs2" alt="kunalkashyap-1" width="200" /> 
-  <img src="https://unwrapped.dev/shared/kunalkashyap-1/it_takes_a_village/QVNhZkVX" alt="kunalkashyap-1" width="200" /> 
-  <img src="https://unwrapped.dev/shared/kunalkashyap-1/top_reviewers/OTU0dU9p" alt="kunalkashyap-1" width="200" /> 
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/your_contributions/ajdqOVJh" alt="kunalkashyap-1" width="150" /> 
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/contribution_streak/VmpIcjV1" alt="kunalkashyap-1" width="150" />  
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/zen_or_ninja/bE1pMUs2" alt="kunalkashyap-1" width="150" /> 
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/it_takes_a_village/QVNhZkVX" alt="kunalkashyap-1" width="150" /> 
+  <img src="https://unwrapped.dev/shared/kunalkashyap-1/top_reviewers/OTU0dU9p" alt="kunalkashyap-1" width="150" /> 
 </p>
 
 - 👨‍💻 Currently pursuing B.Tech in computer science.
@@ -19,9 +19,9 @@
 - 🌐 Full Stack Enthusiast.
 - 🤝 Looking to collaborate with developers. 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkashyap-1&exclude_repo=luffy_project&layout=compact&theme=tokyonight" alt="k-KunalKashyap" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalkashyap-1&show_icons=true&theme=tokyonight" alt="k-kunalKashyap" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkashyap-1&exclude_repo=luffy_project&layout=compact&theme=tokyonight" alt="k-KunalKashyap" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalkashyap-1&show_icons=true&theme=tokyonight" alt="k-kunalKashyap" /></p>
 
 ### 🧰 Languages and Tools
 <div style="background-color:rgb(240,240,240);display: flex;" >
