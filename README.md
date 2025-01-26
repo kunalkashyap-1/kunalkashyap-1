@@ -6,10 +6,10 @@
   <img src="https://raw.githubusercontent.com/kunalkashyap-1/kunalkashyap-1/master/assets/giphy.webp">
 </p>
 
-- 👨‍💻 Currently pursuing B.Tech in computer science.
-- 📚 MERN Stack developer.
-- 🌐 Full Stack Enthusiast.
-- 🤝 Looking to collaborate with developers. 
+- 👨‍💻 Professional Software Developer.
+- 📚 MERN Stack expert with hands-on experience in full-stack development.
+- 🌐 Passionate about building scalable web applications and learning new technologies.
+- 🤝 Open to collaborating with developers and contributing to impactful projects.
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkashyap-1&exclude_repo=luffy_project&layout=compact&theme=tokyonight" alt="k-KunalKashyap" />
