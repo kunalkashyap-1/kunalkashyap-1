@@ -1,5 +1,4 @@
-
-<pre align="left" style="width:100%">
+<div align="center">
 
 <pre>
 ██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ ██╗         ██████╗ ███████╗
@@ -21,10 +20,11 @@
                 Booting...
 </pre>
 
-<table width="100%" style="border:none">
-<tr>
+</div>
 
-<td valign="top">
+<div style="display:flex;flex-wrap:wrap;gap:24px;align-items:flex-start;">
+
+<div style="flex:1 1 400px;min-width:350px;">
 
 ### `> whoami`
 
@@ -78,9 +78,9 @@ Linux         ███████████████
 [ ] Voice Native Computing
 ```
 
-</td>
+</div>
 
-<td valign="top">
+<div style="flex:1 1 400px;min-width:350px;">
 
 ### `> neofetch`
 
@@ -134,8 +134,7 @@ Thank you for visiting KunalOS.
 
 C:\> _
 ```
-</td>
 
-</tr>
-</table>
-</pre>
+</div>
+
+</div>
