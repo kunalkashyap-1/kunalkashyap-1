@@ -1,5 +1,5 @@
 
-<div align="left">
+<pre align="left" style="width:100%">
 
 <pre>
 ██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ ██╗         ██████╗ ███████╗
@@ -21,35 +21,35 @@
                 Booting...
 </pre>
 
-<table width="100%">
+<table width="100%" style="border:none">
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top">
 
-<b>C:\&gt; whoami</b>
+### `> whoami`
 
-<pre>
+```text
 Name    : Kunal Kashyap
 Role    : AI Engineer
 Focus   : Backend • AI • LLM Systems
 Mission : Build intelligent software that runs anywhere.
 Status  : ONLINE
-</pre>
+```
 
-<b>C:\Projects&gt; dir</b>
+### `> dir C:\Projects`
 
-<pre>
-FRIDAY
-NOVA
-VAARTALAP
-ENCYPHER
-RAG-LABS
-LLM-RUNTIME
-</pre>
+```text
+📂 FRIDAY
+📂 NOVA
+📂 VAARTALAP
+📂 ENCYPHER
+📂 RAG-LABS
+📂 LLM-RUNTIME
+```
 
-<b>C:\&gt; stack</b>
+### `> stack`
 
-<pre>
+```text
 Python        ███████████████████
 FastAPI       █████████████████
 React         ████████████
@@ -57,24 +57,34 @@ TypeScript    ███████████
 Java          █████████
 Docker        ████████████
 Linux         ███████████████
-</pre>
+```
 
-<b>C:\&gt; timeline</b>
+### `> timeline`
 
-<pre>
+```text
 2023  + Encypher
 2024  + Vaartalap
 2025  + NOVA
 2026  + FRIDAY
-</pre>
+```
+
+### `> cat todo.txt`
+
+```text
+[ ] Personal AI Operating System
+[ ] Distributed AI Memory
+[ ] Local-first AI Ecosystem
+[ ] Multi-Agent Runtime
+[ ] Voice Native Computing
+```
 
 </td>
 
-<td width="50%" valign="top">
+<td valign="top">
 
-<b>C:\&gt; neofetch</b>
+### `> neofetch`
 
-<pre>
+```text
 OS        : KunalOS
 Host      : GitHub
 Shell     : Markdown
@@ -84,11 +94,11 @@ Backend   : FastAPI
 Frontend  : React
 Database  : PostgreSQL | MongoDB | Redis
 AI Stack  : Ollama | LangChain | Chroma | HuggingFace
-</pre>
+```
 
-<b>C:\&gt; run friday.exe</b>
+### `> run friday.exe`
 
-<pre>
+```text
 Launching...
 
 Offline AI Operating System
@@ -102,44 +112,30 @@ Offline AI Operating System
 ✓ Persistent Context
 
 STATUS : ACTIVE DEVELOPMENT
-</pre>
+```
 
-<b>C:\&gt; top</b>
+### `> top`
 
-<pre>
+```text
 PID    PROCESS                 STATUS
 
 001    Building AI Agents      RUNNING
 002    Learning New Tech       RUNNING
 003    Shipping Projects       RUNNING
 004    Drinking Coffee         ALWAYS
-</pre>
+```
 
-<b>C:\&gt; cat todo.txt</b>
+### `> exit`
 
-<pre>
-[ ] Personal AI Operating System
-[ ] Distributed AI Memory
-[ ] Local-first AI Ecosystem
-[ ] Multi-Agent Runtime
-[ ] Voice Native Computing
-</pre>
-
-</td>
-
-</tr>
-</table>
-
-<hr>
-
-<b>C:\&gt; exit</b>
-
-<pre>
+```text
 Connection closed.
 
 Thank you for visiting KunalOS.
 
-C:\&gt; _
-</pre>
+C:\> _
+```
+</td>
 
-</div>
+</tr>
+</table>
+</pre>
