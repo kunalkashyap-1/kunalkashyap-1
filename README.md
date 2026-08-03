@@ -3,7 +3,7 @@
 <pre style="color: #00ff41; background: transparent; border: none;">
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   C:\USERS\KUNAL&gt; RUN PROFILE.EXE                                            ║
+║   C:\USERS\KUNAL> RUN PROFILE.EXE                                            ║
 ║   LOADING...  [████████████████████████████████████████] 100%                ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -13,17 +13,23 @@
 <tr>
 <td>
 
+<img src="https://raw.githubusercontent.com/kunalkashyap-1/kunalkashyap-1/master/assets/Hi.gif" width="60" style="border-radius: 50%;">
+
+</td>
+<td align="center">
+
 <pre style="color: #00ff41; background: transparent; border: none; font-size: 11px; line-height: 1.1;">
  _   _      _ _         __    __     _    _ 
 | | | | ___| | | ___   / / /\ \ \___| | _| |
 | |_| |/ _ \ | |/ _ \  \ \/  \/ / _ \ |/ / |
 |  _  |  __/ | | (_) |  \  /\  /  __/   <|_|
 |_| |_|\___|_|_|\___/    \/  \/ \___|_|\_(_)
- _      _      __  __ 
-| |    | |    |  \/  |
-| |    | |    | |\/| |
-| |___ | |___ | |  | |
-|_____||_____||_|  |_|
+</pre>
+
+<pre style="color: #00ff41; background: transparent; border: none; font-size: 5px; line-height: 1.1; margin-top: 2px;">
+╔═══════════════════════════════════════════╗
+║        I'M  KUNAL  —  AI  ENGINEER        ║
+╚═══════════════════════════════════════════╝
 </pre>
 
 </td>
@@ -34,6 +40,10 @@
 </td>
 </tr>
 </table>
+
+<pre style="color: #00ff41; background: transparent; border: none;">
+> hello, inference.
+</pre>
 
 <pre style="color: #00ff41; background: transparent; border: none;">
 > TELL ME AND I FORGET.  TEACH ME AND I REMEMBER.  INVOLVE ME AND I LEARN.
@@ -64,48 +74,16 @@
 <div align="center">
 
 <pre style="color: #00ff41; background: transparent; border: none;">
-████████████████████  ACTIVE_PROJECTS.SYS  ████████████████████
+██████████████████████  GITHUB.STATUS  ███████████████████████
 </pre>
 
 <pre style="color: #00ff41; background: transparent; border: none;">
-┌─[ VAARTALAP ]────────────────────────────────────────────────────────────┐
-│  LANG: TypeScript    |    STATUS: SHIPPING                                │
+┌─[ LIVE STATS ]───────────────────────────────────────────────────────────┐
 │                                                                          │
-│  Building an AI-powered video conferencing platform that demolishes       │
-│  language barriers with real-time translation & transcription.            │
-│  Global collaboration, zero friction.                                     │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-
-┌─[ ENCYPHER CHAT ]────────────────────────────────────────────────────────┐
-│  LANG: JavaScript    |    STATUS: LOCKED & LOADED                         │
-│                                                                          │
-│  Engineering a bulletproof real-time chat app with crypto-grade security. │
-│  React frontend + Node.js/Express backend. Privacy isn't optional.        │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-
-┌─[ FEEDPARSIFY ]──────────────────────────────────────────────────────────┐
-│  LANG: JavaScript    |    STATUS: PARSING THE WEB                         │
-│                                                                          │
-│  Crafting a sleek RSS feed parser with live API testing & instant JSON    │
-│  exports. Turning chaotic feeds into clean, structured data on demand.    │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-
-┌─[ MOVIE RECOMMENDATION SYSTEM ]──────────────────────────────────────────┐
-│  LANG: Python/JS     |    STATUS: TRAINING MODELS                         │
-│                                                                          │
-│  Training ML models with KNN & collaborative filtering to serve           │
-│  hyper-personalized movie picks. Basically Netflix's algo, but mine.      │
-│                                                                          │
-└──────────────────────────────────────────────────────────────────────────┘
-
-┌─[ NOTE TAKING APP ]──────────────────────────────────────────────────────┐
-│  LANG: JavaScript    |    STATUS: SHIPPED                                 │
-│                                                                          │
-│  Shipping a lightning-fast React notes app with real-time clock &         │
-│  Material UI. Clean, minimal, and actually useful.                        │
+│  > PROFILE ............  github.com/kunalkashyap-1                       │
+│  > ACTIVE REPOS .......  20+ tracked                                     │
+│  > FOCUS AREA .........  AI/LLM systems & full-stack web                 │
+│  > MOST ACTIVE ........  friday (Python) — last push Apr 2026            │
 │                                                                          │
 └──────────────────────────────────────────────────────────────────────────┘
 </pre>
@@ -115,20 +93,48 @@
 <div align="center">
 
 <pre style="color: #00ff41; background: transparent; border: none;">
-██████████████████████  STATS.SYS  ███████████████████████
+██████████████████████  ACTIVE_PROJECTS.SYS  ███████████████████████
 </pre>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalkashyap-1&show_icons=true&theme=dark&title_color=00ff41&text_color=00ff41&icon_color=00ff41&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
-</p>
+<pre style="color: #00ff41; background: transparent; border: none;">
+┌─[ FRIDAY ]───────────────────────────────────────────────────────────────┐
+│  LANG: PYTHON  |  STATUS: ACTIVE  |  LAST UPDATE: APR 2026               │
+│                                                                          │
+│  > Autonomous cognitive AI agent with voice interaction, local LLM         │
+│  > inference via Ollama, and persistent memory-driven conversation.      │
+│  > Inspired by Iron Man's F.R.I.D.A.Y. — engineered for fully offline    │
+│  > operation with custom agent loops and tool-use capabilities.            │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkashyap-1&theme=dark&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41&hide_border=true" alt="GitHub Streak" />
-</p>
+┌─[ NOVA ]─────────────────────────────────────────────────────────────────┐
+│  LANG: PYTHON  |  STATUS: ACTIVE  |  LAST UPDATE: JUN 2025               │
+│                                                                          │
+│  > Local-first AI assistant architecture with reflexion-based self-      │
+│  > correction, persistent memory storage, and Ollama integration.          │
+│  > Built for autonomous task execution with tool-augmented reasoning     │
+│  > and adaptive behavior loops that improve with every interaction.        │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkashyap-1&layout=compact&theme=dark&title_color=00ff41&text_color=00ff41&bg_color=0d1117&hide_border=true" alt="Top Languages" />
-</p>
+┌─[ VAARTALAP ]────────────────────────────────────────────────────────────┐
+│  LANG: TYPESCRIPT  |  STATUS: PRODUCTION  |  LAST UPDATE: MAY 2024       │
+│                                                                          │
+│  > AI-powered video conferencing platform with real-time speech-to-        │
+│  > text, instant translation, and transcription pipelines. Breaking          │
+│  > language barriers with edge-deployed models for global collaboration.   │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+┌─[ ENCYPHER ]─────────────────────────────────────────────────────────────┐
+│  LANG: JAVASCRIPT  |  STATUS: STABLE  |  LAST UPDATE: JUL 2023            │
+│                                                                          │
+│  > E2E-encrypted real-time chat with secure JWT auth, React frontend,      │
+│  > and Node.js/Express backend. Built for privacy-first communication        │
+│  > with socket-driven message delivery and hardened auth flows.            │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+</pre>
 
 </div>
 
