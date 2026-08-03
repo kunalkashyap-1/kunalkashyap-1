@@ -11,11 +11,6 @@
 
 <table>
 <tr>
-<td>
-
-<img src="https://raw.githubusercontent.com/kunalkashyap-1/kunalkashyap-1/master/assets/Hi.gif" width="60" style="border-radius: 50%;">
-
-</td>
 <td align="center">
 
 <pre style="color: #00ff41; background: transparent; border: none; font-size: 11px; line-height: 1.1;">
@@ -40,10 +35,6 @@
 </td>
 </tr>
 </table>
-
-<pre style="color: #00ff41; background: transparent; border: none;">
-> hello, inference.
-</pre>
 
 <pre style="color: #00ff41; background: transparent; border: none;">
 > TELL ME AND I FORGET.  TEACH ME AND I REMEMBER.  INVOLVE ME AND I LEARN.
