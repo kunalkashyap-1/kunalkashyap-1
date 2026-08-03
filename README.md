@@ -1,4 +1,5 @@
-<div align="left" style = "height:100%;width:100%">
+
+<div align="left" style="width:100%">
 
 <pre>
 ██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ ██╗         ██████╗ ███████╗
@@ -20,26 +21,14 @@
                 Booting...
 </pre>
 
+</div>
 
-```text
-BOOTING KUNAL-OS v4.0...
+<table width="100%">
+<tr>
 
-[████████████████████████████████] 100%
+<td width="50%" valign="top">
 
-Loading Kernel................OK
-Loading Memory................OK
-Loading AI Runtime............OK
-Loading Projects..............OK
-Loading Terminal..............OK
-
-SYSTEM READY.
-
-C:\>
-```
-
----
-
-## `whoami`
+### `whoami`
 
 ```text
 Name    : Kunal Kashyap
@@ -49,9 +38,43 @@ Mission : Build intelligent software that runs anywhere.
 Status  : ONLINE
 ```
 
----
+### `dir C:\Projects`
 
-## `neofetch`
+```text
+📂 FRIDAY
+📂 NOVA
+📂 VAARTALAP
+📂 ENCYPHER
+📂 RAG-LABS
+📂 LLM-RUNTIME
+```
+
+### `stack`
+
+```text
+Python        ███████████████████
+FastAPI       █████████████████
+React         ████████████
+TypeScript    ███████████
+Java          █████████
+Docker        ████████████
+Linux         ███████████████
+```
+
+### `timeline`
+
+```text
+2023  + Encypher
+2024  + Vaartalap
+2025  + NOVA
+2026  + FRIDAY
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `neofetch`
 
 ```text
 OS        : KunalOS
@@ -65,22 +88,7 @@ Database  : PostgreSQL | MongoDB | Redis
 AI Stack  : Ollama | LangChain | Chroma | HuggingFace
 ```
 
----
-
-## `dir C:\Projects`
-
-```text
-📂 FRIDAY
-📂 NOVA
-📂 VAARTALAP
-📂 ENCYPHER
-📂 RAG-LABS
-📂 LLM-RUNTIME
-```
-
----
-
-## `run friday.exe`
+### `run friday.exe`
 
 ```text
 Launching...
@@ -98,23 +106,7 @@ Offline AI Operating System
 STATUS : ACTIVE DEVELOPMENT
 ```
 
----
-
-## `stack`
-
-```text
-Python        ███████████████████
-FastAPI       █████████████████
-React         ████████████
-TypeScript    ███████████
-Java          █████████
-Docker        ████████████
-Linux         ███████████████
-```
-
----
-
-## `top`
+### `top`
 
 ```text
 PID    PROCESS                 STATUS
@@ -125,20 +117,7 @@ PID    PROCESS                 STATUS
 004    Drinking Coffee         ALWAYS
 ```
 
----
-
-## `timeline`
-
-```text
-2023  + Encypher
-2024  + Vaartalap
-2025  + NOVA
-2026  + FRIDAY
-```
-
----
-
-## `cat todo.txt`
+### `cat todo.txt`
 
 ```text
 [ ] Personal AI Operating System
@@ -147,6 +126,11 @@ PID    PROCESS                 STATUS
 [ ] Multi-Agent Runtime
 [ ] Voice Native Computing
 ```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -159,4 +143,3 @@ Thank you for visiting KunalOS.
 
 C:\> _
 ```
-</div>
