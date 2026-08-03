@@ -1,4 +1,4 @@
-<div align="center" style="background-color: #0d1117; border-radius: 12px; padding: 24px; margin-bottom: 16px;">
+<div align="center">
 
 <pre style="color: #00ff41; background: transparent; border: none;">
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -13,19 +13,23 @@
 <tr>
 <td>
 
-<pre style="color: #00ff41; background: transparent; border: none; font-size: 12px; line-height: 1.2;">
+<pre style="color: #00ff41; background: transparent; border: none; font-size: 11px; line-height: 1.1;">
  _   _      _ _         __    __     _    _ 
 | | | | ___| | | ___   / / /\ \ \___| | _| |
 | |_| |/ _ \ | |/ _ \  \ \/  \/ / _ \ |/ / |
 |  _  |  __/ | | (_) |  \  /\  /  __/   <|_|
 |_| |_|\___|_|_|\___/    \/  \/ \___|_|\_(_)
-                                            
+ _      _      __  __ 
+| |    | |    |  \/  |
+| |    | |    | |\/| |
+| |___ | |___ | |  | |
+|_____||_____||_|  |_|
 </pre>
 
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/kunalkashyap-1/kunalkashyap-1/master/assets/Hi.gif" width="80" style="border-radius: 50%; border: 2px solid #00ff41;">
+<img src="https://raw.githubusercontent.com/kunalkashyap-1/kunalkashyap-1/master/assets/giphy.webp" width="280">
 
 </td>
 </tr>
@@ -35,11 +39,9 @@
 > TELL ME AND I FORGET.  TEACH ME AND I REMEMBER.  INVOLVE ME AND I LEARN.
 </pre>
 
-<img src="https://raw.githubusercontent.com/kunalkashyap-1/kunalkashyap-1/master/assets/giphy.webp" width="400" style="border-radius: 8px; border: 1px solid #00ff41;">
-
 </div>
 
-<div align="center" style="background-color: #0d1117; border-radius: 12px; padding: 24px; margin-bottom: 16px;">
+<div align="center">
 
 <pre style="color: #00ff41; background: transparent; border: none;">
 ┌─[ USER LOG ]─────────────────────────────────────────────────────────────┐
@@ -59,36 +61,78 @@
 
 </div>
 
-<div align="center" style="background-color: #0d1117; border-radius: 12px; padding: 24px; margin-bottom: 16px;">
+<div align="center">
+
+<pre style="color: #00ff41; background: transparent; border: none;">
+████████████████████  ACTIVE_PROJECTS.SYS  ████████████████████
+</pre>
+
+<pre style="color: #00ff41; background: transparent; border: none;">
+┌─[ VAARTALAP ]────────────────────────────────────────────────────────────┐
+│  LANG: TypeScript    |    STATUS: SHIPPING                                │
+│                                                                          │
+│  Building an AI-powered video conferencing platform that demolishes       │
+│  language barriers with real-time translation & transcription.            │
+│  Global collaboration, zero friction.                                     │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+┌─[ ENCYPHER CHAT ]────────────────────────────────────────────────────────┐
+│  LANG: JavaScript    |    STATUS: LOCKED & LOADED                         │
+│                                                                          │
+│  Engineering a bulletproof real-time chat app with crypto-grade security. │
+│  React frontend + Node.js/Express backend. Privacy isn't optional.        │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+┌─[ FEEDPARSIFY ]──────────────────────────────────────────────────────────┐
+│  LANG: JavaScript    |    STATUS: PARSING THE WEB                         │
+│                                                                          │
+│  Crafting a sleek RSS feed parser with live API testing & instant JSON    │
+│  exports. Turning chaotic feeds into clean, structured data on demand.    │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+┌─[ MOVIE RECOMMENDATION SYSTEM ]──────────────────────────────────────────┐
+│  LANG: Python/JS     |    STATUS: TRAINING MODELS                         │
+│                                                                          │
+│  Training ML models with KNN & collaborative filtering to serve           │
+│  hyper-personalized movie picks. Basically Netflix's algo, but mine.      │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+┌─[ NOTE TAKING APP ]──────────────────────────────────────────────────────┐
+│  LANG: JavaScript    |    STATUS: SHIPPED                                 │
+│                                                                          │
+│  Shipping a lightning-fast React notes app with real-time clock &         │
+│  Material UI. Clean, minimal, and actually useful.                        │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+</div>
+
+<div align="center">
 
 <pre style="color: #00ff41; background: transparent; border: none;">
 ██████████████████████  STATS.SYS  ███████████████████████
 </pre>
 
-<pre style="color: #00ff41; background: transparent; border: none;">
-┌─[ TOP LANGUAGES ]────────────────────────────────────────┐
-│                                                          │
-│  JavaScript   ████████████████████░░░░░░░░░░  62%        │
-│  TypeScript   ████████████░░░░░░░░░░░░░░░░░░  38%        │
-│  Python       ██████████░░░░░░░░░░░░░░░░░░░░  32%        │
-│  Java         ███████░░░░░░░░░░░░░░░░░░░░░░░  22%        │
-│  HTML/CSS     ██████░░░░░░░░░░░░░░░░░░░░░░░░  18%        │
-│  C++          ████░░░░░░░░░░░░░░░░░░░░░░░░░░  12%        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalkashyap-1&show_icons=true&theme=dark&title_color=00ff41&text_color=00ff41&icon_color=00ff41&bg_color=0d1117&hide_border=true" alt="GitHub Stats" />
+</p>
 
-┌─[ GITHUB.STATUS ]────────────────────────────────────────┐
-│                                                          │
-│  > VIEW LIVE STATS  ......  github.com/kunalkashyap-1    │
-│  > REPOS TRACKED    ......  see profile                  │
-│  > CONTRIBUTION LOG ......  see profile                  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-</pre>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkashyap-1&theme=dark&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkashyap-1&layout=compact&theme=dark&title_color=00ff41&text_color=00ff41&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+</p>
 
 </div>
 
-<div align="center" style="background-color: #0d1117; border-radius: 12px; padding: 24px; margin-bottom: 16px;">
+<div align="center">
 
 <pre style="color: #00ff41; background: transparent; border: none;">
 ██████████████████  LANGUAGES_AND_TOOLS.DLL  ██████████████
@@ -139,7 +183,7 @@
 
 </div>
 
-<div align="center" style="background-color: #0d1117; border-radius: 12px; padding: 24px;">
+<div align="center">
 
 <pre style="color: #00ff41; background: transparent; border: none;">
 ██████████████████████  CONTACT.BAT  █████████████████████
