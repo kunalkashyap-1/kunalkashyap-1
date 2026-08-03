@@ -1,5 +1,5 @@
 
-<div align="left" style="width:100%">
+<div align="left">
 
 <pre>
 ██╗  ██╗██╗   ██╗███╗   ██╗ █████╗ ██╗         ██████╗ ███████╗
@@ -21,37 +21,35 @@
                 Booting...
 </pre>
 
-</div>
-
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### `whoami`
+<b>C:\&gt; whoami</b>
 
-```text
+<pre>
 Name    : Kunal Kashyap
 Role    : AI Engineer
 Focus   : Backend • AI • LLM Systems
 Mission : Build intelligent software that runs anywhere.
 Status  : ONLINE
-```
+</pre>
 
-### `dir C:\Projects`
+<b>C:\Projects&gt; dir</b>
 
-```text
-📂 FRIDAY
-📂 NOVA
-📂 VAARTALAP
-📂 ENCYPHER
-📂 RAG-LABS
-📂 LLM-RUNTIME
-```
+<pre>
+FRIDAY
+NOVA
+VAARTALAP
+ENCYPHER
+RAG-LABS
+LLM-RUNTIME
+</pre>
 
-### `stack`
+<b>C:\&gt; stack</b>
 
-```text
+<pre>
 Python        ███████████████████
 FastAPI       █████████████████
 React         ████████████
@@ -59,24 +57,24 @@ TypeScript    ███████████
 Java          █████████
 Docker        ████████████
 Linux         ███████████████
-```
+</pre>
 
-### `timeline`
+<b>C:\&gt; timeline</b>
 
-```text
+<pre>
 2023  + Encypher
 2024  + Vaartalap
 2025  + NOVA
 2026  + FRIDAY
-```
+</pre>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `neofetch`
+<b>C:\&gt; neofetch</b>
 
-```text
+<pre>
 OS        : KunalOS
 Host      : GitHub
 Shell     : Markdown
@@ -86,11 +84,11 @@ Backend   : FastAPI
 Frontend  : React
 Database  : PostgreSQL | MongoDB | Redis
 AI Stack  : Ollama | LangChain | Chroma | HuggingFace
-```
+</pre>
 
-### `run friday.exe`
+<b>C:\&gt; run friday.exe</b>
 
-```text
+<pre>
 Launching...
 
 Offline AI Operating System
@@ -104,42 +102,44 @@ Offline AI Operating System
 ✓ Persistent Context
 
 STATUS : ACTIVE DEVELOPMENT
-```
+</pre>
 
-### `top`
+<b>C:\&gt; top</b>
 
-```text
+<pre>
 PID    PROCESS                 STATUS
 
 001    Building AI Agents      RUNNING
 002    Learning New Tech       RUNNING
 003    Shipping Projects       RUNNING
 004    Drinking Coffee         ALWAYS
-```
+</pre>
 
-### `cat todo.txt`
+<b>C:\&gt; cat todo.txt</b>
 
-```text
+<pre>
 [ ] Personal AI Operating System
 [ ] Distributed AI Memory
 [ ] Local-first AI Ecosystem
 [ ] Multi-Agent Runtime
 [ ] Voice Native Computing
-```
+</pre>
 
 </td>
 
 </tr>
 </table>
 
----
+<hr>
 
-## `exit`
+<b>C:\&gt; exit</b>
 
-```text
+<pre>
 Connection closed.
 
 Thank you for visiting KunalOS.
 
-C:\> _
-```
+C:\&gt; _
+</pre>
+
+</div>
