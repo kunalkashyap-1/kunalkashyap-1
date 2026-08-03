@@ -20,7 +20,6 @@
                 Booting...
 </pre>
 
-</div>
 
 ```text
 BOOTING KUNAL-OS v4.0...
@@ -160,3 +159,4 @@ Thank you for visiting KunalOS.
 
 C:\> _
 ```
+</div>
